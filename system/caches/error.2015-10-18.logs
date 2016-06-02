@@ -1,0 +1,100 @@
+[18-Oct-2015 00:05:22] PHP Warning:  getimagesize(D:\wwwroot\yungoutest\wwwroot\statics\uploads\) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: Permission denied in D:\wwwroot\yungoutest\wwwroot\system\libs\upload.class.php on line 163
+[18-Oct-2015 00:05:22] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in D:\wwwroot\yungoutest\wwwroot\system\libs\upload.class.php on line 194
+[18-Oct-2015 00:05:22] PHP Warning:  imagejpeg() [<a href='function.imagejpeg'>function.imagejpeg</a>]: Unable to open 'D:\wwwroot\yungoutest\wwwroot\statics\uploads\_160160.D:\wwwroot\yungoutest\wwwroot\statics\uploads\' for writing: Invalid argument in D:\wwwroot\yungoutest\wwwroot\system\libs\upload.class.php on line 212
+[18-Oct-2015 00:05:22] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in D:\wwwroot\yungoutest\wwwroot\system\libs\upload.class.php on line 216
+[18-Oct-2015 00:05:22] PHP Warning:  getimagesize(D:\wwwroot\yungoutest\wwwroot\statics\uploads\) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: Permission denied in D:\wwwroot\yungoutest\wwwroot\system\libs\upload.class.php on line 163
+[18-Oct-2015 00:05:22] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in D:\wwwroot\yungoutest\wwwroot\system\libs\upload.class.php on line 194
+[18-Oct-2015 00:05:22] PHP Warning:  imagejpeg() [<a href='function.imagejpeg'>function.imagejpeg</a>]: Unable to open 'D:\wwwroot\yungoutest\wwwroot\statics\uploads\_8080.D:\wwwroot\yungoutest\wwwroot\statics\uploads\' for writing: Invalid argument in D:\wwwroot\yungoutest\wwwroot\system\libs\upload.class.php on line 212
+[18-Oct-2015 00:05:22] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in D:\wwwroot\yungoutest\wwwroot\system\libs\upload.class.php on line 216
+[18-Oct-2015 00:05:22] PHP Warning:  getimagesize(D:\wwwroot\yungoutest\wwwroot\statics\uploads\) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: Permission denied in D:\wwwroot\yungoutest\wwwroot\system\libs\upload.class.php on line 163
+[18-Oct-2015 00:05:22] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in D:\wwwroot\yungoutest\wwwroot\system\libs\upload.class.php on line 194
+[18-Oct-2015 00:05:22] PHP Warning:  imagejpeg() [<a href='function.imagejpeg'>function.imagejpeg</a>]: Unable to open 'D:\wwwroot\yungoutest\wwwroot\statics\uploads\_3030.D:\wwwroot\yungoutest\wwwroot\statics\uploads\' for writing: Invalid argument in D:\wwwroot\yungoutest\wwwroot\system\libs\upload.class.php on line 212
+[18-Oct-2015 00:05:22] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in D:\wwwroot\yungoutest\wwwroot\system\libs\upload.class.php on line 216
+[18-Oct-2015 00:15:35] PHP Fatal error:  Call to undefined function  get_user_jf_goods_num() in D:\wwwroot\yungoutest\wwwroot\system\caches\caches_template\quyu-1yygkuan\cdf494ec35a35dbc1d9aaedc8ea00408.tpl.php on line 40
+[18-Oct-2015 00:36:17] PHP Warning:  file_put_contents(D:/test.txt) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: Permission denied in D:\wwwroot\yungoutest\wwwroot\system\modules\mobile\shopajax.action.php on line 306
+[18-Oct-2015 01:07:28] PHP Warning:  file_put_contents(D:/test.txt) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: Permission denied in D:\wwwroot\yungoutest\wwwroot\system\modules\mobile\shopajax.action.php on line 306
+[18-Oct-2015 06:34:29] PHP Fatal error:  Call to undefined function  get_user_jf_goods_num() in D:\wwwroot\yungoutest\wwwroot\system\caches\caches_template\quyu-1yygkuan\cdf494ec35a35dbc1d9aaedc8ea00408.tpl.php on line 40
+[18-Oct-2015 08:59:51] PHP Fatal error:  Call to undefined method set::getxml() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\set.action.php on line 30
+[18-Oct-2015 08:59:52] PHP Fatal error:  Call to undefined method set::getxml() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\set.action.php on line 30
+[18-Oct-2015 09:00:31] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\auto_p.tpl.php on line 44
+[18-Oct-2015 09:00:31] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\auto_p.tpl.php on line 44
+[18-Oct-2015 09:00:31] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\auto_p.tpl.php on line 44
+[18-Oct-2015 09:00:31] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\auto_p.tpl.php on line 44
+[18-Oct-2015 09:00:31] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\auto_p.tpl.php on line 44
+[18-Oct-2015 09:00:31] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\auto_p.tpl.php on line 44
+[18-Oct-2015 09:00:31] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\auto_p.tpl.php on line 44
+[18-Oct-2015 09:00:31] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\auto_p.tpl.php on line 44
+[18-Oct-2015 09:00:31] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\auto_p.tpl.php on line 44
+[18-Oct-2015 09:00:31] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\auto_p.tpl.php on line 44
+[18-Oct-2015 09:00:31] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\auto_p.tpl.php on line 44
+[18-Oct-2015 09:00:31] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\auto_p.tpl.php on line 44
+[18-Oct-2015 09:00:31] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\auto_p.tpl.php on line 44
+[18-Oct-2015 09:00:31] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\auto_p.tpl.php on line 44
+[18-Oct-2015 09:00:31] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\auto_p.tpl.php on line 44
+[18-Oct-2015 09:00:31] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\auto_p.tpl.php on line 44
+[18-Oct-2015 09:00:31] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\auto_p.tpl.php on line 44
+[18-Oct-2015 09:00:31] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\auto_p.tpl.php on line 44
+[18-Oct-2015 09:00:31] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\auto_p.tpl.php on line 44
+[18-Oct-2015 09:00:31] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\auto_p.tpl.php on line 44
+[18-Oct-2015 09:00:31] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\auto_p.tpl.php on line 44
+[18-Oct-2015 09:00:31] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\auto_p.tpl.php on line 44
+[18-Oct-2015 09:00:31] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\auto_p.tpl.php on line 44
+[18-Oct-2015 09:00:31] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\auto_p.tpl.php on line 44
+[18-Oct-2015 09:00:31] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\auto_p.tpl.php on line 90
+[18-Oct-2015 09:01:06] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\set.tpl.php on line 44
+[18-Oct-2015 09:01:06] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\set.tpl.php on line 44
+[18-Oct-2015 09:01:06] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\set.tpl.php on line 44
+[18-Oct-2015 09:01:06] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\set.tpl.php on line 44
+[18-Oct-2015 09:01:06] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\set.tpl.php on line 44
+[18-Oct-2015 09:01:06] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\set.tpl.php on line 44
+[18-Oct-2015 09:01:06] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\set.tpl.php on line 44
+[18-Oct-2015 09:01:06] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\set.tpl.php on line 44
+[18-Oct-2015 09:01:06] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\set.tpl.php on line 44
+[18-Oct-2015 09:01:06] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\set.tpl.php on line 44
+[18-Oct-2015 09:01:06] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\set.tpl.php on line 44
+[18-Oct-2015 09:01:06] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\set.tpl.php on line 44
+[18-Oct-2015 09:01:06] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\set.tpl.php on line 44
+[18-Oct-2015 09:01:06] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\set.tpl.php on line 44
+[18-Oct-2015 09:01:06] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\set.tpl.php on line 44
+[18-Oct-2015 09:01:06] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\set.tpl.php on line 44
+[18-Oct-2015 09:01:06] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\set.tpl.php on line 44
+[18-Oct-2015 09:01:06] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\set.tpl.php on line 44
+[18-Oct-2015 09:01:06] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\set.tpl.php on line 44
+[18-Oct-2015 09:01:06] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\set.tpl.php on line 44
+[18-Oct-2015 09:01:06] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\set.tpl.php on line 44
+[18-Oct-2015 09:01:06] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\set.tpl.php on line 44
+[18-Oct-2015 09:01:06] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\set.tpl.php on line 44
+[18-Oct-2015 09:01:06] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\set.tpl.php on line 44
+[18-Oct-2015 09:01:06] PHP Warning:  Invalid argument supplied for foreach() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\set.tpl.php on line 90
+[18-Oct-2015 09:27:54] PHP Fatal error:  Call to undefined function  dump() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\set.action.php on line 21
+[18-Oct-2015 09:27:55] PHP Fatal error:  Call to undefined function  dump() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\set.action.php on line 21
+[18-Oct-2015 09:36:23] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in D:\wwwroot\yungoutest\wwwroot\system\modules\header\set.action.php on line 22
+[18-Oct-2015 09:36:24] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in D:\wwwroot\yungoutest\wwwroot\system\modules\header\set.action.php on line 22
+[18-Oct-2015 09:36:34] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in D:\wwwroot\yungoutest\wwwroot\system\modules\header\set.action.php on line 22
+[18-Oct-2015 09:36:51] PHP Parse error:  syntax error, unexpected $end in D:\wwwroot\yungoutest\wwwroot\system\modules\header\set.action.php on line 30
+[18-Oct-2015 09:36:55] PHP Parse error:  syntax error, unexpected ';' in D:\wwwroot\yungoutest\wwwroot\system\modules\header\set.action.php on line 22
+[18-Oct-2015 09:38:36] PHP Parse error:  syntax error, unexpected ';' in D:\wwwroot\yungoutest\wwwroot\system\modules\header\set.action.php on line 22
+[18-Oct-2015 09:38:36] PHP Parse error:  syntax error, unexpected ';' in D:\wwwroot\yungoutest\wwwroot\system\modules\header\set.action.php on line 22
+[18-Oct-2015 09:38:45] PHP Parse error:  syntax error, unexpected ';' in D:\wwwroot\yungoutest\wwwroot\system\modules\header\set.action.php on line 22
+[18-Oct-2015 09:45:16] PHP Fatal error:  Call to undefined function  print_() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\set.tpl.php on line 23
+[18-Oct-2015 09:45:16] PHP Fatal error:  Call to undefined function  print_() in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\set.tpl.php on line 23
+[18-Oct-2015 09:50:58] PHP Parse error:  syntax error, unexpected T_ECHO in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\set.tpl.php on line 23
+[18-Oct-2015 09:50:58] PHP Parse error:  syntax error, unexpected T_ECHO in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\set.tpl.php on line 23
+[18-Oct-2015 09:51:04] PHP Parse error:  syntax error, unexpected T_ECHO in D:\wwwroot\yungoutest\wwwroot\system\modules\header\tpl\set.tpl.php on line 23
+[18-Oct-2015 12:18:33] PHP Warning:  file_put_contents(D:/test.txt) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: Permission denied in D:\wwwroot\yungoutest\wwwroot\system\modules\mobile\shopajax.action.php on line 306
+[18-Oct-2015 14:14:57] PHP Warning:  file_put_contents(D:/test.txt) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: Permission denied in D:\wwwroot\yungoutest\wwwroot\system\modules\mobile\shopajax.action.php on line 306
+[18-Oct-2015 14:15:36] PHP Warning:  file_put_contents(D:/test.txt) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: Permission denied in D:\wwwroot\yungoutest\wwwroot\system\modules\mobile\shopajax.action.php on line 306
+[18-Oct-2015 17:11:35] PHP Parse error:  syntax error, unexpected T_VARIABLE in D:\wwwroot\yungoutest\wwwroot\system\modules\mobile\user.action.php on line 141
+[18-Oct-2015 17:28:19] PHP Parse error:  syntax error, unexpected T_STRING in D:\wwwroot\yungoutest\wwwroot\system\modules\member\user.action.php on line 103
+[18-Oct-2015 17:28:21] PHP Parse error:  syntax error, unexpected T_STRING in D:\wwwroot\yungoutest\wwwroot\system\modules\member\user.action.php on line 103
+[18-Oct-2015 17:28:22] PHP Parse error:  syntax error, unexpected T_STRING in D:\wwwroot\yungoutest\wwwroot\system\modules\member\user.action.php on line 103
+[18-Oct-2015 17:29:15] PHP Parse error:  syntax error, unexpected T_STRING in D:\wwwroot\yungoutest\wwwroot\system\modules\member\user.action.php on line 103
+[18-Oct-2015 17:29:16] PHP Parse error:  syntax error, unexpected T_STRING in D:\wwwroot\yungoutest\wwwroot\system\modules\member\user.action.php on line 103
+[18-Oct-2015 17:29:16] PHP Parse error:  syntax error, unexpected T_STRING in D:\wwwroot\yungoutest\wwwroot\system\modules\member\user.action.php on line 103
+[18-Oct-2015 17:29:16] PHP Parse error:  syntax error, unexpected T_STRING in D:\wwwroot\yungoutest\wwwroot\system\modules\member\user.action.php on line 103
+[18-Oct-2015 17:29:16] PHP Parse error:  syntax error, unexpected T_STRING in D:\wwwroot\yungoutest\wwwroot\system\modules\member\user.action.php on line 103
+[18-Oct-2015 17:29:59] PHP Parse error:  syntax error, unexpected T_STRING in D:\wwwroot\yungoutest\wwwroot\system\modules\member\user.action.php on line 103
+[18-Oct-2015 17:30:00] PHP Parse error:  syntax error, unexpected T_STRING in D:\wwwroot\yungoutest\wwwroot\system\modules\member\user.action.php on line 103
+[18-Oct-2015 17:31:45] PHP Warning:  file_put_contents(../../../../statics/uploads/weixintx//15-10-18 05:31:45.jpg) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: Invalid argument in D:\wwwroot\yungoutest\wwwroot\system\modules\member\user.action.php on line 105
+[18-Oct-2015 17:34:44] PHP Warning:  file_put_contents(.//15-10-18 05:34:44.jpg) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: Invalid argument in D:\wwwroot\yungoutest\wwwroot\system\modules\member\user.action.php on line 105
+[18-Oct-2015 19:17:20] PHP Warning:  file_put_contents(D:/test.txt) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: Permission denied in D:\wwwroot\yungoutest\wwwroot\system\modules\mobile\shopajax.action.php on line 306

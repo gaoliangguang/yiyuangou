@@ -1,0 +1,29 @@
+<?php defined('G_IN_SYSTEM')or exit('No permission resources.'); ?><?php include templates("index","header");?>
+<div class="layout980 clearfix">
+<link rel="stylesheet" type="text/css" href="<?php echo G_TEMPLATES_CSS; ?>/index3.css?date=20140731">
+<?php include templates("member","top");?>	
+	
+
+	
+<div class="c_person_record">
+<ul class="c_person_list">
+	<li class=""><a href="<?php echo WEB_PATH; ?>/member/home/userbuylist" hidefocus="">云购记录</a></li>
+	<li class=""><a href="<?php echo WEB_PATH; ?>/member/home/singlelist" hidefocus="">我的晒单</a></li>
+	<li class=""><a href="<?php echo WEB_PATH; ?>/member/home/orderlist" hidefocus="">中奖记录</a></li>
+	<li class=""><a href="<?php echo WEB_PATH; ?>/member/home/userfufen" hidefocus="">我的夺宝币</a></li>
+	<li class=""><a href="<?php echo WEB_PATH; ?>/member/home/userbalance" hidefocus="">账户管理</a></li>
+	<li class=""><a href="<?php echo WEB_PATH; ?>/member/home/commissions" hidefocus="">奖励专区</a></li>
+	<li class=""><a href="<?php echo WEB_PATH; ?>/member/home/invitefriends" hidefocus="">邀请好友</a></li>
+	<li class=""><a href="<?php echo WEB_PATH; ?>/member/home/address" hidefocus="">收货地址</a></li>
+</ul>
+
+			
+
+</div>
+<!--center_center_end-->
+<div class="right">				
+</div>
+<!--center_rjght_end-->
+
+</div>
+<?php include templates("index","footer");?>
