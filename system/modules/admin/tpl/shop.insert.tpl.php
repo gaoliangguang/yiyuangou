@@ -70,6 +70,9 @@ function CheckForm(){
 			<td>
             	<select id="brand" name="brand">
                 	<option value="0">≡ 请选择品牌 ≡</option>
+                	<?php foreach($BrandList as $brand): ?>
+                    <option value="<?php echo $brand['id']; ?>"><?php echo $brand['name']; ?></option>
+                    <?php endforeach; ?>
 				</select>
 			</td>
 		</tr> 
